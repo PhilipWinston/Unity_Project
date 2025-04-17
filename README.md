@@ -36,4 +36,4 @@
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/your-username/EscapeTheHorror.git
+   git clone https://github.com/PhilipWinston/EscapeTheHorror.git
