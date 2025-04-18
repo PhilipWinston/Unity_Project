@@ -27,7 +27,6 @@
 3. **Controls:**
    - `W A S D` – Move
    - `Mouse` – Look around
-   - `Shift` – Sprint
    - `Esc` – Pause / Quit
 
 ---
