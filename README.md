@@ -17,7 +17,7 @@
 ## 🚀 How to Play (For Players)
 
 1. **Download the Game:**
-   - Download the latest ZIP from this repository under the `Builds/` folder.
+   - Download the latest ZIP from https://drive.google.com/file/d/1VmhZWEbW7JFohpMtx78T6x_Mbw3xXGHx/view?usp=sharing.
 
 2. **Run the Game:**
    - Extract the ZIP.
