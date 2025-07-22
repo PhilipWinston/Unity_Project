@@ -11,6 +11,9 @@
 - 🕯️ Candles subtly guide your path
 - 🔦 Real-time lighting & surreal visuals
 - 🧠 Inspired by Max Payne dream levels, Outlast 2, and Layers of Fear
+<img width="1919" height="1079" alt="Screenshot 2024-11-06 085223" src="https://github.com/user-attachments/assets/cceb8706-a8a8-4d34-87d0-3779fd8e92a5" />
+<img width="1924" height="1079" alt="Screenshot 2024-11-06 085640" src="https://github.com/user-attachments/assets/5e2ef76f-d94c-48a7-9152-eb41e01c3769" />
+<img width="1928" height="1084" alt="Screenshot 2024-11-06 085951" src="https://github.com/user-attachments/assets/39d0b08e-63f3-4063-90ab-54c92a1a2b5f" />
 
 ---
 
